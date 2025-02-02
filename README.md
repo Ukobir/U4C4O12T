@@ -14,3 +14,5 @@ Desta forma, foi implementado a funcionalidade de interrupção para os botões,
    git clone https://github.com/Ukobir/U4C4O12T.git
 2. Compile no Pico-SDK
 3. Faça o Upload para a placa Bitdoglab.
+## Vídeo demonstração
+[Link para o vídeo](https://www.dropbox.com/scl/fi/1mngpzel7lvn7t9rgqx7a/Video1.mp4?rlkey=6eojsezz7y02tnkx8s6u8pf1b&st=m3lhyndv&dl=0)
