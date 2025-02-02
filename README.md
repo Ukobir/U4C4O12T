@@ -6,7 +6,7 @@ Desta forma, foi implementado a funcionalidade de interrupção para os botões,
 ## Pré-requesitos
 - VS Code 
 - Pico sdk
-- Wokwi para o Vscode
+- Placa Bitdoglab
 
 ## Instalação
 1. Clone o repositório:
